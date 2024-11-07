@@ -20,6 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
+          <li>Helloooo CRPLY</li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
